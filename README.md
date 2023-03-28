@@ -26,33 +26,28 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 HELLO WORLD RAILS APP <a name="about-project"></a>
 
-> Budget app is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+> An app that implements a connection between a Ruby on Rails back-end and React front-end
 
 ### Key Features <a name="key-features"></a>
 
-<!-- > Describe between 1-3 key features of the application. -->
-
-- Use devise for user authentication.
-- Use Rspec for tests.
-- Use cancancan for authorization
+- Fetch greetings from rails API
+- Display A random Greeting
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a> -->
+<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
 
-[Live Demo](https://budgetty.onrender.com/)
+<!-- > Add a link to your deployed project. -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -69,7 +64,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/Trust-007/budget-app.git
+ git clone https://github.com/Trust-007/hello-world-rails.git
 ```
 
 ### Install
@@ -77,7 +72,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```
-  cd budget-app
+  cd hello-world-rails
   bundle install
 ```
 
@@ -163,12 +158,10 @@ If you like this project, Please give it a ⭐️
 
 Thanks [@microverse](https://www.microverse.org/)
 
-Original design by [Gregoire Vella on Behance.](https://www.behance.net/gregoirevella)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Trust-007/budget-app/blob/app/MIT.md) licensed.
+This project is [MIT](https://github.com/Trust-007/hello-world-rails/blob/setup/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
